@@ -31,7 +31,10 @@ where X is the strike
 	Callable lookback note
 
 
-Reference:
+References:
+
 https://finpricing.com/lib/EqLookback.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamIzNyQDO3MTPkl0av9mY
 
 
